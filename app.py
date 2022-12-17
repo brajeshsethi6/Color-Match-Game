@@ -109,7 +109,6 @@ def main():
         
     btn1=Button(master,text="Done",font=('calibre',10,'bold'),width=25,height=2,command = verify)
     btn1.grid(row=9,column=0)
-
     
     TotalAccScr = Label(
         font=("Helvetica", 24),
